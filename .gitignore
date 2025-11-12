@@ -1,0 +1,42 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.exe
+
+# PyInstaller
+*.spec
+*.manifest
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# test / coverage
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+
+# PyInstaller build artifacts
+neis_meal_viewer.spec
+build/
+dist/
+
+# Local helper files
+tracked_files.txt
